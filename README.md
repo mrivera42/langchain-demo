@@ -18,3 +18,7 @@ source langchain-venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+5. save OpenAI key as an environmental variable by running:
+```
+export OPENAI_API_KEY={key that I will give you during the session}
+```
